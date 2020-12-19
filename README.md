@@ -5,7 +5,8 @@ O intuito do projeto foi praticar sobre classes e funções no Python.
 
 # Execução
 
-Executar o arquivo calculadora.py e escolher uma das opções do menu.
+Executar o arquivo #calculadora.py 
+Escolher uma das opções do menu.
 Digite o número desejado (Exemplo: 1)
 
 0. Calcular desconto INSS
@@ -17,4 +18,4 @@ Digite o número desejado (Exemplo: 1)
 
 # Observações
 
-Alguns calculos não são considerados alguns tipos de descontos. Como pensão alimenticia por exemplo. 
+Alguns calculos não são considerados alguns tipos de descontos. Como pensão alimenticia, por exemplo. 
