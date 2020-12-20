@@ -5,7 +5,7 @@ O intuito do projeto foi praticar sobre classes e funções no Python.
 
 # Execução
 
-Executar o arquivo #calculadora.py
+Executar o arquivo calculadora.py
  
 Escolher uma das opções do menu.
 Digite o número desejado (Exemplo: 1)
