@@ -31,4 +31,4 @@ jobs:
         python -m pip install --upgrade pip        
     - name: Test with calculadora
       run: |
-        python calculadora.py.py calculadora
+        python calculadora.py calculadora
